@@ -1,0 +1,7 @@
+# visualization 
+dash==1.19.0
+plotly==4.8.2
+# transformers==
+dask[complete]
+pulp==2.1
+dataprep==0.3.0
