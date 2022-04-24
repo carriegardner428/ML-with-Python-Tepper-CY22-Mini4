@@ -2,7 +2,7 @@
 # Machine Learning with Python
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carriegardner428/ML-with-Python-Tepper-CY22-Mini4/blob/main/)
 
-## Tepper MBA PTOH CY22 Mini 4 Workshop
+## Tepper MBA CY22 Mini 4 Workshop
 
 ![Past, Present, Future Monthly Prices](img/Forecast/Past-Present-Future-Monthly-Prices.png)
 
